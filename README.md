@@ -1,9 +1,8 @@
-# Детектор фейковых профилей Instagram
+In this hands-on project, we will build and train a simple artificial neural network model to detect spam/fake Instagram accounts. Fake and spam accounts are a major problem on social media. Many people on social media use fake Instagram accounts to create the illusion of having a large social media following. Fake accounts can be used to impersonate other people, as well as to sell fraudulent services/products. The data was taken from the Kaggle website. In this hands-on project, we will complete the following steps:
 
-В этом практическом проекте мы построим и обучим простую модель искусственной нейронной сети для обнаружения спама/фейковых аккаунтов Instagram. Фейковые и спам-аккаунты являются серьезной проблемой в социальных сетях. Многие люди в социальных сетях используют накрутку фальшивых аккаунтов в Instagram, чтобы создать иллюзию большого количества подписчиков в социальных сетях. Фальшивые аккаунты могут использоваться для выдачи себя за других людей, а также для продажи мошеннических услуг/товаров. Данные были взяты из сайта [Kaggle](https://www.kaggle.com/free4ever1/instagram-fake-spammer-genuine-accounts). В этом практическом проекте мы выполним следующие этапы:
-* Импорт датасета и библиотек
-* Проводим разведочный анализ данных
-* Выполняем визуализацию данных
-* Подготавливаем данные для моделирования
-* Строим и обучаем простую модель глубокого обучения
-* Оцениваем обученную модель
+Importing datasets and libraries
+We carry out exploratory data analysis
+We perform data visualization
+Preparing data for modelling
+Building and training a simple deep-learning model
+Evaluating the trained model
